@@ -201,24 +201,24 @@ span {
 
 @-webkit-keyframes type {
   to {
-    width: 70em;
+    width: 100%;
   }
 }
 
 @-moz-keyframes type {
   to {
-    width: 70em;
+    width: 100%;
   }
 }
 
 @-o-keyframes type {
   to {
-    width: 70em;
+    width: 100%;
   }
 }
 
 @keyframes type {
   to {
-    width: 70em;
+    width: 100%;
   }
 }
