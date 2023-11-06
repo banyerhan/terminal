@@ -58,7 +58,7 @@ p {
   font-size: 1.25em;
   font-family: monospace;
   white-space: nowrap;
-  overflow: inherit;
+  overflow: hidden;
   width: 0;
 }
 
